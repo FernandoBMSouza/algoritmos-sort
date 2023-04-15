@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\bin\Debug\net7.0\insertion-sort.exe
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\bin\Debug\net7.0\insertion-sort.deps.json
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\bin\Debug\net7.0\insertion-sort.runtimeconfig.json
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\bin\Debug\net7.0\insertion-sort.dll
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\bin\Debug\net7.0\insertion-sort.pdb
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.AssemblyInfo.cs
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.dll
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\refint\insertion-sort.dll
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.pdb
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\insertion-sort.genruntimeconfig.cache
+C:\Users\ferna\Documents\Algoritmos Sort\insertion-sort\obj\Debug\net7.0\ref\insertion-sort.dll

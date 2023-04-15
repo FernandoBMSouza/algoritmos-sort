@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.AssemblyInfo.cs
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\bin\Debug\net7.0\selection-sort.exe
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\bin\Debug\net7.0\selection-sort.deps.json
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\bin\Debug\net7.0\selection-sort.runtimeconfig.json
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\bin\Debug\net7.0\selection-sort.dll
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\bin\Debug\net7.0\selection-sort.pdb
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.dll
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\refint\selection-sort.dll
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.pdb
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\selection-sort.genruntimeconfig.cache
+C:\Users\ferna\Documents\Algoritmos Sort\selection-sort\obj\Debug\net7.0\ref\selection-sort.dll
